@@ -1,7 +1,4 @@
 ---
-title: null_corp
+title: Site
 ---
-The Null Corporation
-====================
-There's [**nothing**](https://goo.gl/maps/MEngBNPgBV1FYyYu8){:target="_blank"}
-here right now.
+Hello world
